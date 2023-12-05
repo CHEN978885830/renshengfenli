@@ -1,0 +1,8 @@
+直接下载使用就可以了   图形化界面 
+目前个人看来SPLEETER 不错  同时也有demucs gui
+
+https://makenweb.com/SpleeterGUI
+https://github.com/CarlGao4/Demucs-Gui/releases
+
+测试spleeter为2个小时750条
+测试Demucs为5.7小时400条
